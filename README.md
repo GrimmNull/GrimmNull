@@ -5,8 +5,8 @@ and as few problems that I have to deal with as possible.
 Might learn Rust, might learn how to be an actual good programmer, who knows?
 (Rust is good, I actually just suck)
 
-For real though, I like low level stuff, mostly because my family is low-class.
-Well, it's more because I always had to gather my toys after I was done playing with time, 
+For real though, I like low level stuff because my family is low-class.
+Well, it's more because I always had to gather my toys after I was done playing with them, 
 but that's a second part...
 
 Got interested about web development because of the same reasons why an artist becomes interested in nsfw.
