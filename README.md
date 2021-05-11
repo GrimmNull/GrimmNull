@@ -13,3 +13,6 @@ Got interested in web development from the same reasons why an artist becomes in
 Well, ackthually I want to learn how to build a platform for myself
 and be able to add to known programming languages "HTML" and "CSS" because my humor is just as dry
 as my eyes (I already shed every tear that I had when learning Java).
+
+Judging by how I took decisions in life until now, I should already be wearing white paint and a rainbow wig,
+so might as well be a clown with personality.
