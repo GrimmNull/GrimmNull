@@ -5,7 +5,11 @@ and as few problems to deal with as possible.
 Might learn Rust, might learn how to be an actual good programmer, who knows?
 (Rust is good, I actually just suck)
 
-For real though, I like low-level stuff since the universe decided to put me in a low-class family.
+I would love to learn audio signal processing because I spend most of the time with my headphones on
+to run from the world around, and I'd like to play with what happens between the moment I press the play button
+and when the serotonin gets to my brain. I would also enjoy to work with small devices to enhance the listening experience.
+
+For real, I like low-level stuff since the universe decided to put me in a low-class family.
 Well, it's more because I always had to gather my toys after I was done playing with them or I'd lose them, 
 but that's the second part...
 
