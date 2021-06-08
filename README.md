@@ -1,5 +1,5 @@
 I always say that I like C++, but when I use it I remember why I like my programming languages how I like my girls, 
-with CLEAR warning messages (*sTl pRoToTyPe TemPlaTe intensifies*) 
+with CLEAR warning messages (*sTl pRoToTyPe TemPlaTe cOnTAinEr intensifies*) 
 and as few problems to deal with as possible.
 
 Might learn Rust, might learn how to be an actual good programmer, who knows?
