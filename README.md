@@ -13,7 +13,7 @@ For real, I like low-level stuff since the universe decided to put me in a low-c
 Well, it's more because I always had to gather my toys after I was done playing with them or I'd lose them, 
 but that's the second part...
 
-Got interested in web development from the same reasons why an artist becomes interested in nsfw.
+Got interested in web development from all the jokes about "jAvAsCrIpT bAd".
 Ackthually I want to learn how to build a platform for myself
 and be able to add to known programming languages "HTML" and "CSS" because my humor is just as dry
 as my eyes (I already shed every tear that I had when learning Java).
