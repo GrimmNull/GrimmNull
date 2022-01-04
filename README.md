@@ -6,7 +6,7 @@ After a few months working with it I can proudly say that now I can shoot myself
 and at least, at the end of the day, I'll have a good laugh before the tears and suffering kick in.
 
 Javascript is love, null is life and some low-level programming didn't kill the cat, so I enjoy doing some
-C++ now and then until I declare strings using single quotes, moment when I know, I'm too much of a zoomer for this
+C++ now and then until I declare strings using single quotes, moment when I know, I'm too much of a zoomer for this <br/>
 11/10 would get error messages longer than the Bible and twice as confusing again...
 
 Judging by how I made decisions in life until now, I should already be wearing white face paint and a rainbow wig,
