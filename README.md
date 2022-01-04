@@ -12,26 +12,19 @@ C++ now and then until I declare strings using single quotes, moment when I know
 Judging by how I made decisions in life until now, I should already be wearing white face paint and a rainbow wig,
 so might as well be a clown with personality.
 
-#head {
 
+```css
+#head {
   & > #face {
-  
       background: white;
-      
       & > #nose {
-      
         background: red;
-        
       }
-      
   }
-  
   & > #head-hair {
-  
       background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)
-      
   }
-  
 }
+```
 
 Yes, I used ids in css, sue me! (actually please don't, I only get 20RONs monthly, I don't have money for Saul Goodman)
