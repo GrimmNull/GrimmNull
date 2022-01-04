@@ -27,4 +27,4 @@ so might as well be a clown with personality.
 }
 ```
 
-Yes, I used ids in css, sue me! (actually please don't, I only get 20RONs monthly, I don't have money for Saul Goodman)
+Yes, I used ids in css, sue me! (actually please don't, I only get paid in growth opportunities, I don't have money for Saul Goodman)
