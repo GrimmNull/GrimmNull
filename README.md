@@ -28,3 +28,8 @@ so might as well be a clown with personality.
 ```
 
 Yes, I used ids in css, sue me! (actually please don't, I only get paid in growth opportunities, I don't have money for Saul Goodman)
+
+
+WARNING! Any started project falls under the category "Soon" when it comes to delivering a finished product.
+
+Soon™: Copyright pending 2020-2022 Mr. Grimm, Inc. All rights reserved. "Soon™" does not imply any particular date, time, decade, century, or millennia in the past, present, and certainly not the future. "Soon" shall make no contract or warranty between Mr. Grimm and the end user. "Soon" will arrive some day, Mr. Grimm does guarantee that "soon" will be here before the end of time. Maybe. Do not make plans based on "soon" as Mr. Grimm will not be liable for any misuse, use, or even casual glancing at "soon."
